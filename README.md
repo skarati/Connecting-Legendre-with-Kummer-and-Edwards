@@ -3,7 +3,7 @@ This repository contains the associated MAGMA and SAGE scripts with the article
 "Connecting Legendre with Kummer and Edwards". 
 
 Implementors:
-     Sabyasachi Karati
+     Sabyasachi Karati, and
      Palash Sarkar
 
 The follwoing gives the puposes of the available scripts.
